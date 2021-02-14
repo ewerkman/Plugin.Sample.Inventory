@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Sitecore.Commerce.Core" Version="6.0.92" />
+      <PackageReference Include="Sitecore.Commerce.Plugin.Inventory" Version="6.0.52" />
+    </ItemGroup>
+
+</Project>
